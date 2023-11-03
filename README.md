@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**santoslopez890/santoslopez890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+  A freebie app that lets the user see free stuff around their area.
 - 🌱 I’m currently learning ...
+  AWS
 - 👯 I’m looking to collaborate on ...
+  Anything just hmu
 - 🤔 I’m looking for help with ...
+  SpringBoot
 - 💬 Ask me about ...
+  Selenium
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Santoslopez890@gmail.com or my LinkedIn https://www.linkedin.com/in/santosherreralopez/
+- ⚡ Fun fact:
+  I love to fix stuff
+  
+
