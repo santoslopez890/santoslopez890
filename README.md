@@ -24,7 +24,7 @@
 
   Passion Project – Freebies:
       Developing an app that gathers listings (posts include images and descriptions of free items within a specific geographical area and sorts by distance, and # of days listed) to         optimize sales; using Java, JavaScript, H2 Database, and Spring Boot, React, Selenium, and TypeScript.
-        https://github.com/santoslopez890/Freebies
+      GitHub link: https://github.com/santoslopez890/Freebies
   
   
   
